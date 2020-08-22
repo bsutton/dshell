@@ -4,7 +4,7 @@ A library and tooling for building console/cli applications and scripts using th
 
 If you are looking for DShell then you are almost at the right place.
 
-As of August 2020 we have renamed DShell to DCli to better reflect what DCli actually.
+As of August 2020 we have renamed DShell to DCli to better reflect what DCli actually does.
 
 Nothing else is changed, nothing to see here.
 
